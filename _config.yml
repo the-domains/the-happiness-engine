@@ -1,0 +1,28 @@
+name: The Happiness Engine
+favicon: null
+layout_spectrum: 0.41231769090518355
+typography_spectrum: 0.17639696155674756
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.318703674711287
+  lightness: 0.5641734446398914
+  saturation: 0.04316153400577605
+  rhythmicContrast: 0.6711661019362509
+purpose: []
